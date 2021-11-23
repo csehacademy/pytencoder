@@ -1,4 +1,4 @@
-# Speed-test
+# pytencoder
 
 ## Features
 - This tool generates cipher text
