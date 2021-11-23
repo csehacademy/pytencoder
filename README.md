@@ -1,5 +1,3 @@
-# pytencoder
-
 ## Features
 - This tool generates cipher text
 - This tool decodes texts
